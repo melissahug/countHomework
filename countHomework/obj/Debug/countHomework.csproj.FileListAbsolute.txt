@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\countHomework\countHomework\bin\Debug\countHomework.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\countHomework\countHomework\bin\Debug\countHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\countHomework\countHomework\bin\Debug\countHomework.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\countHomework\countHomework\obj\Debug\countHomework.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\countHomework\countHomework\obj\Debug\countHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\countHomework\countHomework\obj\Debug\countHomework.pdb
